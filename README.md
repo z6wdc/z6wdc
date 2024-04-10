@@ -1,1 +1,1 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/660cf6b3da1671f9860a747c?variant=light&roadmaps=computer-science%2Csystem-design%2Cbackend)](https://roadmap.sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z6wdc)](https://github.com/anuraghazra/github-readme-stats)
